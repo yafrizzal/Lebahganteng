@@ -1,2 +1,3 @@
 ini adalah resume materi sesi 1
 materi ini berisikan tentang pembelajaran git
+git adalah ....
